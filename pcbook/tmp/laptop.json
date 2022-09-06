@@ -1,27 +1,27 @@
 {
-	"id": "350c1354-7c31-4f18-a517-df310fa3150c",
+	"id": "dd75c734-3157-4d80-b753-606a7d0e65a9",
 	"brand": "Apple",
-	"name": "Macbook Pro",
+	"name": "Macbook Air",
 	"cpu": {
-		"brand": "Intel",
-		"name": "Core i3-1005G1",
-		"number_cores": 8,
-		"number_threads": 12,
-		"min_ghz": 3.054144455548466,
-		"max_ghz": 4.884175899345982
+		"brand": "AMD",
+		"name": "Ryzen 7 PRO 2700U",
+		"number_cores": 5,
+		"number_threads": 9,
+		"min_ghz": 2.811340627020644,
+		"max_ghz": 3.863877874813104
 	},
 	"ram": {
-		"value": "63",
+		"value": "56",
 		"unit": "GIGABYTE"
 	},
 	"gpus": [
 		{
 			"brand": "Nvidia",
-			"name": "RTX 2070",
-			"min_ghz": 1.3071529729418323,
-			"max_ghz": 1.4663450981418136,
+			"name": "GTX 1070",
+			"min_ghz": 1.4144609771765846,
+			"max_ghz": 1.9967713136936296,
 			"memory": {
-				"value": "4",
+				"value": "3",
 				"unit": "GIGABYTE"
 			}
 		}
@@ -30,33 +30,33 @@
 		{
 			"driver": "SSD",
 			"memory": {
-				"value": "919",
+				"value": "813",
 				"unit": "GIGABYTE"
 			}
 		},
 		{
 			"driver": "HDD",
 			"memory": {
-				"value": "4",
+				"value": "6",
 				"unit": "TERABYTE"
 			}
 		}
 	],
 	"screen": {
-		"size_inch": 16.583286,
+		"size_inch": 16.01808,
 		"resolution": {
-			"width": 2702,
-			"height": 1520
+			"width": 4787,
+			"height": 2693
 		},
-		"panel": "OLED",
-		"multitouch": true
+		"panel": "IPS",
+		"multitouch": false
 	},
 	"keyboard": {
-		"layout": "QWERTZ",
+		"layout": "AZERTY",
 		"backlit": true
 	},
-	"weight_kg": 2.5859828348170204,
-	"price_usd": 1908.7115537753577,
-	"release_year": 2015,
-	"updated_at": "2022-09-06T19:39:48.784520Z"
+	"weight_kg": 1.7382958661585564,
+	"price_usd": 2367.475724775744,
+	"release_year": 2016,
+	"updated_at": "2022-09-06T19:46:17.737194Z"
 }
