@@ -1,0 +1,62 @@
+{
+	"id": "350c1354-7c31-4f18-a517-df310fa3150c",
+	"brand": "Apple",
+	"name": "Macbook Pro",
+	"cpu": {
+		"brand": "Intel",
+		"name": "Core i3-1005G1",
+		"number_cores": 8,
+		"number_threads": 12,
+		"min_ghz": 3.054144455548466,
+		"max_ghz": 4.884175899345982
+	},
+	"ram": {
+		"value": "63",
+		"unit": "GIGABYTE"
+	},
+	"gpus": [
+		{
+			"brand": "Nvidia",
+			"name": "RTX 2070",
+			"min_ghz": 1.3071529729418323,
+			"max_ghz": 1.4663450981418136,
+			"memory": {
+				"value": "4",
+				"unit": "GIGABYTE"
+			}
+		}
+	],
+	"storages": [
+		{
+			"driver": "SSD",
+			"memory": {
+				"value": "919",
+				"unit": "GIGABYTE"
+			}
+		},
+		{
+			"driver": "HDD",
+			"memory": {
+				"value": "4",
+				"unit": "TERABYTE"
+			}
+		}
+	],
+	"screen": {
+		"size_inch": 16.583286,
+		"resolution": {
+			"width": 2702,
+			"height": 1520
+		},
+		"panel": "OLED",
+		"multitouch": true
+	},
+	"keyboard": {
+		"layout": "QWERTZ",
+		"backlit": true
+	},
+	"weight_kg": 2.5859828348170204,
+	"price_usd": 1908.7115537753577,
+	"release_year": 2015,
+	"updated_at": "2022-09-06T19:39:48.784520Z"
+}
