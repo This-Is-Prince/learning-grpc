@@ -1,4 +1,4 @@
-module github.com/This-Is-Prince/learning-grpc/mongodb-crud-with-grpc
+module github.com/This-Is-Prince/learning-grpc/mongodb-crud-with-grpc/server
 
 go 1.19
 

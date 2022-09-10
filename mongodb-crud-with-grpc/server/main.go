@@ -8,7 +8,7 @@ import (
 	"os"
 	"os/signal"
 
-	blogpb "github.com/This-Is-Prince/learning-grpc/mongodb-crud-with-grpc/pb"
+	blogpb "github.com/This-Is-Prince/learning-grpc/mongodb-crud-with-grpc/server/pb"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
